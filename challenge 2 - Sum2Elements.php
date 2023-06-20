@@ -35,9 +35,6 @@
                 break;
             }
         }
-        // foreach($array as $k => $val){
-        //     if()
-        // }
         return $index;
     }
 ?>
